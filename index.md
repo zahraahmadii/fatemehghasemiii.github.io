@@ -24,3 +24,10 @@
 ### Social Media
 + https://facebook.com/Fatemeh Ghasemi 
 + https://Instagram.com/miss.f7420 
+###ارزیابی رزومه 
+---
+
+
+[رزومه فارسی]
+
+
