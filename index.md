@@ -2,6 +2,5 @@
 ---<img src="20200930_130558.jpg">
 ### Skill Highlights
 ---
-+Network plus 
-+linux Essential
++Programming Languages (C++,C)
 ###Education
