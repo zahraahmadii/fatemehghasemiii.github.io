@@ -1,5 +1,5 @@
 ### fatemehghasemi
----<img src="20200930_130558.jpg">
+---<img src="pic.jpeg">
 ### Skill Highlights
 ---
 + Programming Languages (C++,C)
