@@ -33,6 +33,6 @@ title: رزومه فارسی فاطمه قاسمی نیاسر
  دوره های آموزشی و کارگاه ها
 </div>
 <div dir="rtl">
- نتورک پلاس،Essential لینوکس
+ نتورک پلاس،linux Essentials 
 </div>
 
