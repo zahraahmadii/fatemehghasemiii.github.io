@@ -15,7 +15,7 @@
 + I have complete control over network plus
 + I have complete control over linux essential
 
-###Education
+### Education
 ---
 + diploma: froq andishe High School
  -2017
