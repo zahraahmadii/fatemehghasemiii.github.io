@@ -1,5 +1,14 @@
 ### fatemehghasemi
 ---<img src="pic.jpeg">
+### intro
+---
++ Birthdate 1999,11,9
++ Bachelor
++ Now i am a Bachelors students in computer Engineering
++ Email 
++ fatemehghasemi78780@gmail.com
++ Iran,Tehran province 
+
 ### Skill Highlights
 ---
 + Programming Languages (C++,C)
