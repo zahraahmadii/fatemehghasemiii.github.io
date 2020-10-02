@@ -14,6 +14,7 @@
 + Programming Languages (C++,C)
 + I have complete control over network plus
 + I have complete control over linux essential
+
 ###Education
 ---
 + diploma: froq andishe High School
