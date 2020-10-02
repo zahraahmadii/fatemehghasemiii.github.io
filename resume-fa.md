@@ -9,7 +9,7 @@ title: رزومه فارسی فاطمه قاسمی نیاسر
  فاطمه قاسمی نیاسر 
 </div>
 <div dir="rtl">
----<img src="pic.jpeg">
+<img src="pic.jpeg">
 </div>
 <div dir="rtl">
  درباره من 
