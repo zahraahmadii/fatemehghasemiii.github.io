@@ -32,7 +32,7 @@
 ---
 + Now i am a Bachelors students in computer Engineering 
 ### Social Media
-+ https://facebook.com/Fatemeh Ghasemi 
++ https://facebook.com/FatemehGhasemi 
 + https://Instagram.com/miss.f7420 
  
 ---
