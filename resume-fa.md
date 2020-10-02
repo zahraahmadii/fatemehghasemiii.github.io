@@ -1,8 +1,9 @@
+<div dir="rtl">
 ---
 layout: rtl
 title: رزومه فارسی فاطمه قاسمی نیاسر 
 ---
-<div dir="rtl">
+
 
 فارسی
 #### fatemeh ghasemi 
